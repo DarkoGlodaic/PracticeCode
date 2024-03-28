@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darko\\Desktop\\Personal\\Coding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj": {}
+    "C:\\Users\\darko\\Desktop\\Personal\\Coding\\PracticeCoding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darko\\Desktop\\Personal\\Coding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj": {
+    "C:\\Users\\darko\\Desktop\\Personal\\Coding\\PracticeCoding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darko\\Desktop\\Personal\\Coding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj",
+        "projectUniqueName": "C:\\Users\\darko\\Desktop\\Personal\\Coding\\PracticeCoding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj",
         "projectName": "442. Find All Duplicates in an Array",
-        "projectPath": "C:\\Users\\darko\\Desktop\\Personal\\Coding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj",
+        "projectPath": "C:\\Users\\darko\\Desktop\\Personal\\Coding\\PracticeCoding\\LeetCode\\442. Find All Duplicates in an Array\\442. Find All Duplicates in an Array.csproj",
         "packagesPath": "C:\\Users\\darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darko\\Desktop\\Personal\\Coding\\LeetCode\\442. Find All Duplicates in an Array\\obj\\",
+        "outputPath": "C:\\Users\\darko\\Desktop\\Personal\\Coding\\PracticeCoding\\LeetCode\\442. Find All Duplicates in an Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darko\\AppData\\Roaming\\NuGet\\NuGet.Config"
