@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "1. Two Sum",
-        "12. Integer to Roman"
+        "12. Integer to Roman",
+        "58. Length of Last Word"
     ]
 }
