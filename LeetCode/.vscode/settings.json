@@ -3,7 +3,8 @@
         "1. Two Sum",
         "12. Integer to Roman",
         "58. Length of Last Word",
-        "1137. N-th Tribonacci Number"
+        "1137. N-th Tribonacci Number",
+        "3. Longest Substring Without Repeating Characters"
     ],
     "java.project.referencedLibraries": []
 }
